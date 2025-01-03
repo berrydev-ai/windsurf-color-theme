@@ -1,16 +1,31 @@
-# windsurf README
+# Windsurf Theme for VS Code
 
-## Working with Markdown
+A clean, modern dark theme designed for the Windsurf editor and now available for Visual Studio Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark theme optimized for long coding sessions
+- Carefully selected colors for improved readability
+- Consistent syntax highlighting across languages
+- Balanced contrast for comfortable viewing
+- Modern UI elements styling
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+To add screenshots of your theme in action, open a few files with different languages and take screenshots.
 
-**Enjoy!**
+## Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Windsurf`
+3. Click **Install**
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Windsurf**
+
+## Feedback
+
+If you have suggestions, please [open an issue](https://github.com/eberry/windsurf-color-theme/issues) or submit a pull request.
+
+## License
+
+[MIT License](LICENSE)

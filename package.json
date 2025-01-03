@@ -1,13 +1,25 @@
 {
-  "name": "windsurf",
+  "name": "windsurf-color-theme",
   "displayName": "Windsurf",
   "description": "Default theme used by the Windsurf editor",
   "version": "0.0.1",
+  "publisher": "eberry",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berrydev-ai/windsurf-color-theme"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "windsurf",
+    "color theme"
   ],
   "contributes": {
     "themes": [
